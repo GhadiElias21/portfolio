@@ -1,3 +1,3 @@
 my PORTFOLIO 
 built with REACT js
-[preview](ghadiportfolio.netlify.app)
+[preview](https://ghadiportfolio.netlify.app)
